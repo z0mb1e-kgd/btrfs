@@ -1,0 +1,1 @@
+btrfs subvolume create /mnt/XXX/root && btrfs subvolume create /mnt/XXX/home

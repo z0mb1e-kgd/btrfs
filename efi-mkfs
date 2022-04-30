@@ -1,0 +1,1 @@
+mkfs.fat -F 32 /dev/sdXY
